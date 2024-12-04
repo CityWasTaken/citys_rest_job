@@ -32,6 +32,9 @@ City's Rest Job is an application designed to help users find and apply for jobs
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
+## Walkthrough
+[Watch Here](https://drive.google.com/file/d/1U9rKqOyaqe54pIzptxkLdcaa4kEfmm-f/view?usp=sharing)
+
 ## License
 This project is licensed under the MIT License.
 
