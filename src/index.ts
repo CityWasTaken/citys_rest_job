@@ -1,3 +1,4 @@
-import MenuSystem from './classes/MenuSystem.js';
+import {showMenu} from './lib/menu.js';
 
-MenuSystem.showMainMenu();
+
+showMenu ();

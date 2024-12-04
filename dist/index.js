@@ -1,3 +1,3 @@
-import MenuSystem from './classes/MenuSystem.js';
-MenuSystem.showMainMenu();
+import { showMenu } from './lib/menu.js';
+showMenu();
 //# sourceMappingURL=index.js.map
