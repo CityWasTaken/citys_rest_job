@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../src/index.ts"],"names":[],"mappings":"AAAA,OAAO,UAAU,MAAM,yBAAyB,CAAC;AAEjD,UAAU,CAAC,YAAY,EAAE,CAAC","sourcesContent":["import MenuSystem from './classes/MenuSystem.js';\n\nMenuSystem.showMainMenu();"]}
